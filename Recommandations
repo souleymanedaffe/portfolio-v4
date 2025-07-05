@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Recommandations</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Recommandations</h1>
+    <nav>
+      <a href="index.html">Accueil</a>
+      <a href="competences.html">Compétences</a>
+      <a href="experiences.html">Expériences</a>
+      <a href="formation.html">Formation</a>
+      <a href="projets_realises.html">Projets réalisés</a>
+      <a href="contact.html">Contact</a>
+      <a href="certifications.html">Certifications</a>
+      <a href="recommandations.html">Recommandations</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="project">
+      <h2>Stéphane Fritsch – Tuteur de stage chez MANE FILS</h2>
+      <p>Cher Monsieur/Madame,</p>
+      <p>
+        J'ai le plaisir de vous recommander M. Daffe Souleymane pour son ambition et sa passion en tant qu'étudiant Data Analyst.
+        Durant son stage avec moi, il a démontré un grand potentiel et une forte volonté d'apprendre.
+      </p>
+      <p>
+        Il s’est personnellement investi dans des projets de recherche, maîtrisant des outils analytiques tels que Python, R Studio, et Power BI. Il a également prouvé sa capacité à collaborer efficacement avec les membres de l’équipe.
+      </p>
+      <p>
+        Il s’est distingué par sa maîtrise de Power BI, en développant des dashboards interactifs et pertinents.
+      </p>
+      <p>
+        Je suis convaincu que M. Daffe Souleymane saura s’épanouir dans un environnement exigeant grâce à sa curiosité et son sérieux.
+      </p>
+      <p>
+        <strong>Contact :</strong> Stephane.FRITSCH@MANE.com | +33 6 45 02 25 81 | +33 4 89 39 36 13
+      </p>
+    </section>
+
+    <section class="project">
+      <h2>Joanna Faddoul – Professeure en Mathématiques Appliquées</h2>
+      <p>
+        Objet : Lettre de recommandation pour M. Souleymane DAFFE.
+      </p>
+      <p>
+        M. Daffe a été mon étudiant en programmation Python et développement R Shiny. Il s’est distingué par sa rigueur, son sérieux et son engagement.
+      </p>
+      <p>
+        Il est persévérant, ne baisse jamais les bras face aux difficultés, et fait preuve d’un esprit d’équipe remarquable. Sa capacité d’amélioration continue en fait un excellent candidat.
+      </p>
+      <p>
+        <strong>Contact :</strong> joanna.k.faddoul@gmail.com | +33 6 03 99 92 87
+      </p>
+    </section>
+
+    <section class="project">
+      <h2>Marie Chaumaz – Manager chez AREP</h2>
+      <p>
+        Objet : Lettre de recommandation pour M. Souleymane DAFFE.
+      </p>
+      <p>
+        En tant qu’alternant au sein de l’équipe BIM & Data d’AREP, Souleymane a travaillé sur des projets liant modélisation BIM et analyse carbone. Il a démontré rigueur, autonomie et efficacité.
+      </p>
+      <p>
+        Il a été un acteur clé dans le développement d’un outil de calcul d’empreinte carbone basé sur Revit, en Python. Il a également assuré la visualisation des résultats et structuré les données pour des analyses environnementales pertinentes.
+      </p>
+      <p>
+        Humainement, il est fiable, collaboratif et réactif. Je recommande vivement Souleymane pour toute mission en lien avec la donnée ou la durabilité.
+      </p>
+      <p>
+        <strong>Contact :</strong> marie.chaumaz@arep.fr | +33 6 23 87 47 41
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    <p>Souleymane Daffe</p>
+  </footer>
+</body>
+</html>
